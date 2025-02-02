@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "scripts",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+     "build": "node build.js"
   },
   "keywords": [],
   "author": "",
@@ -15,8 +15,8 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "react": "^18.3.1",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.28.2"
+    "react-router-dom": "^6.10.0"
   }
 }
