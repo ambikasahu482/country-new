@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html",
-     "build": "node build.js"
+    "start": "parcel index.html"
+    
   },
   "keywords": [],
   "author": "",
